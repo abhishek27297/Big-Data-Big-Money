@@ -4,3 +4,5 @@ Can big data technologies with big data help one make a better financial decisio
 
 ### Data:
 The [dataset](https://www.quandl.com/databases/SEP/data) contains stock market data for more than 6,500 active tickers, with historical data since the year 1998. It has 7 million observations for 49 different variables. It was acquired from Quandl and was collected by an independent research firm, Sharadar.
+
+![Poster](https://drive.google.com/open?id=1VU9G9WODIpQzGfZzXDy-wTfCLMVs3jHp)
